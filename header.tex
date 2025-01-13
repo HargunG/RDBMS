@@ -1,0 +1,67 @@
+\documentclass[12pt,twoside]{report}
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\DeclareUnicodeCharacter{00A0}{ }
+\usepackage{amsmath}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\fancyhf{} % sets both header and footer to nothing
+\renewcommand{\headrulewidth}{0pt}
+\usepackage{hyperref}
+\hypersetup{urlcolor=blue, colorlinks=true, linkcolor=black}
+\usepackage[square,numbers]{natbib}
+\usepackage{setspace}
+\usepackage{verbatim}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage[compact]{titlesec}
+\usepackage{listings}
+\usepackage{float}
+
+\pagestyle{fancy}
+\renewcommand{\chaptername}{Practical}
+\graphicspath{ {images/} }
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b, 
+	frame= shadowbox,                   
+	keepspaces=true,                 
+    showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2}
+
+\lstset{style=mystyle}
+
+\renewcommand*\contentsname{TABLE OF CONTENTS}
+\newcommand*{\justifyheading}{\raggedleft}
+
+\titleformat{\chapter}[display]{\fontsize{12pt}{0em}\selectfont\bf\centering}{\chaptertitlename\  \thechapter}{1em}{}
+\titlespacing*{\chapter}{0pt}{0pt}{15pt}
+
+
+\titleformat{\chapter}[display]{\fontsize{16pt}{0em}\selectfont\bf}{\chaptertitlename \hspace{.5em}\centering\thechapter}{1em}{}
+
+\titleformat{\section}  {\normalfont\fontsize{14}{12}\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\fontsize{12}{12}\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+  {\normalfont\fontsize{10}{12}\selectfont}{\thesubsubsection}{1em}{}
+
+\makeindex

@@ -1,0 +1,94 @@
+\contentsline {chapter}{\numberline {1}Installation and configuration of PostgreSQL and Pgadmin on machine and preparing to accept connections from all IP addresses.}{8}{chapter.1}
+\contentsline {section}{\numberline {1.1}Installation and configuration of PostgreSQL 9.5}{8}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Introduction}{8}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Add the PostgreSQL repository}{8}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Update the package list}{8}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}PostgreSQL installation}{9}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Connect to Postgres with the New UserConnect to Postgres with the New User}{9}{subsection.1.1.5}
+\contentsline {section}{\numberline {1.2}Installation and configuration of PgAdminIII}{9}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Connecting to database}{10}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}Configuring PostgreSQL server 9.5 to accept from all IP addresses}{10}{section.1.3}
+\contentsline {chapter}{\numberline {2}Write the queries for Data Definition (CREATE, DROP and ALTER) and Data Manipulation Language (SELECT, INSERT, UPDATE and DELETE).}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Create and Insert Table}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2} Select Table}{13}{section.2.2}
+\contentsline {section}{\numberline {2.3} Update Table}{13}{section.2.3}
+\contentsline {section}{\numberline {2.4} Alter Table}{14}{section.2.4}
+\contentsline {section}{\numberline {2.5} Drop Table}{15}{section.2.5}
+\contentsline {section}{\numberline {2.6} Delete Table}{15}{section.2.6}
+\contentsline {chapter}{\numberline {3}Write SQL queries using operators ($<$,$>$,=etc).}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}Comparison Operators}{16}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Equal-to Operator}{16}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Less-than Operator}{16}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Greater-than Operator}{17}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Greater-than,equal-to Operator}{17}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Less-than,equal-to Operator}{17}{subsection.3.1.5}
+\contentsline {chapter}{\numberline {4}Write SQL queries using SQL operators (Between, AND, OR, IN, Like, NULL).}{18}{chapter.4}
+\contentsline {section}{\numberline {4.1}The AND operator}{18}{section.4.1}
+\contentsline {section}{\numberline {4.2}The OR operator}{18}{section.4.2}
+\contentsline {section}{\numberline {4.3}The AND and OR operators together}{19}{section.4.3}
+\contentsline {section}{\numberline {4.4}The BETWEEN operator}{19}{section.4.4}
+\contentsline {section}{\numberline {4.5}The IN operator}{19}{section.4.5}
+\contentsline {section}{\numberline {4.6}The NULL operator}{20}{section.4.6}
+\contentsline {section}{\numberline {4.7}The LIKE operator}{20}{section.4.7}
+\contentsline {chapter}{\numberline {5}Write SQL query using character, number, date and group functions.}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}Character Functions:}{21}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}CHARACTER TYPES:}{21}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}UCase():}{21}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}LCase():}{21}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}SQL MID() Function}{22}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Numeric funtions :}{22}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}SQL AVG() Function}{22}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}SQL COUNT() Function}{22}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}SQL FIRST() Function}{23}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}SQL LAST() Function}{23}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}SQL MAX() Function}{23}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}SQL MIN() Function}{23}{subsection.5.2.6}
+\contentsline {subsection}{\numberline {5.2.7}SQL SUM() Function}{24}{subsection.5.2.7}
+\contentsline {section}{\numberline {5.3}GROUP Functions:}{24}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Group by statement}{24}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}HAVING Clause:}{25}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}Date/Time Functions:}{25}{section.5.4}
+\contentsline {chapter}{\numberline {6}Write SQL queries for Relational Algebra(UNION, INTERSECT and MINUS etc).}{27}{chapter.6}
+\contentsline {section}{\numberline {6.1}UNION Operator}{27}{section.6.1}
+\contentsline {section}{\numberline {6.2}INTERSECT Operator}{28}{section.6.2}
+\contentsline {section}{\numberline {6.3}MINUS Operator}{29}{section.6.3}
+\contentsline {chapter}{\numberline {7}Write SQL queries for extracting data from more than one table (Equi-Join, Non-Equi-Join , Outer Join)}{30}{chapter.7}
+\contentsline {section}{\numberline {7.1}INNER JOIN}{30}{section.7.1}
+\contentsline {section}{\numberline {7.2}LEFT OUTER JOIN}{30}{section.7.2}
+\contentsline {section}{\numberline {7.3}RIGHT OUTER JOIN}{31}{section.7.3}
+\contentsline {section}{\numberline {7.4}FULL OUTER JOIN}{31}{section.7.4}
+\contentsline {section}{\numberline {7.5}CROSS JOIN}{32}{section.7.5}
+\contentsline {chapter}{\numberline {8}Write SQL queries for sub queries, nested queries.}{33}{chapter.8}
+\contentsline {section}{\numberline {8.1}What is subquery}{33}{section.8.1}
+\contentsline {section}{\numberline {8.2}Rules of subqueries are:-}{33}{section.8.2}
+\contentsline {section}{\numberline {8.3}Subqueries with the SELECT Statement:-}{33}{section.8.3}
+\contentsline {section}{\numberline {8.4}Subqueries with the INSERT Statement:}{34}{section.8.4}
+\contentsline {section}{\numberline {8.5}Subqueries with the UPDATE Statement:}{34}{section.8.5}
+\contentsline {section}{\numberline {8.6}Subqueries with the DELETE Statement:}{35}{section.8.6}
+\contentsline {chapter}{\numberline {9}Creation, altering and droping of tables and inserting rows into a table (use constraints while creating tables) examples using SELECT command.}{37}{chapter.9}
+\contentsline {section}{\numberline {9.1}What are Constraints}{37}{section.9.1}
+\contentsline {section}{\numberline {9.2}Types of Constraints Used:}{37}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}NOT NULL Constraint:}{37}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Unique Constraint:}{37}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Primary Key Constraint}{38}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}FOREIGN KEY Constraint}{39}{subsection.9.2.4}
+\contentsline {subsection}{\numberline {9.2.5}CHECK Constraint}{39}{subsection.9.2.5}
+\contentsline {subsection}{\numberline {9.2.6}EXCLUSION Constraint}{40}{subsection.9.2.6}
+\contentsline {subsection}{\numberline {9.2.7}Dropping Constraints}{40}{subsection.9.2.7}
+\contentsline {chapter}{\numberline {10}Write SQL queries for sub queries, nested queries.}{42}{chapter.10}
+\contentsline {section}{\numberline {10.1}Subquery}{42}{section.10.1}
+\contentsline {section}{\numberline {10.2}Rules of subqueries are:-}{42}{section.10.2}
+\contentsline {section}{\numberline {10.3}Subqueries with the SELECT Statement:-}{42}{section.10.3}
+\contentsline {section}{\numberline {10.4}Subqueries with the INSERT Statement:}{43}{section.10.4}
+\contentsline {section}{\numberline {10.5}Subqueries with the UPDATE Statement:}{44}{section.10.5}
+\contentsline {section}{\numberline {10.6}Subqueries with the DELETE Statement:}{45}{section.10.6}
+\contentsline {chapter}{\numberline {11}Creation, altering and droping of tables and inserting rows into a table (use constraints while creating tables) examples using SELECT command.}{46}{chapter.11}
+\contentsline {section}{\numberline {11.1}Constraints}{46}{section.11.1}
+\contentsline {section}{\numberline {11.2}Types of Constraints Used:}{46}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}NOT NULL Constraint:}{46}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}Unique Constraint:}{47}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.3}Primary Key Constraint}{47}{subsection.11.2.3}
+\contentsline {subsection}{\numberline {11.2.4}FOREIGN KEY Constraint}{48}{subsection.11.2.4}
+\contentsline {subsection}{\numberline {11.2.5}CHECK Constraint}{48}{subsection.11.2.5}
+\contentsline {subsection}{\numberline {11.2.6}EXCLUSION Constraint}{49}{subsection.11.2.6}
+\contentsline {subsection}{\numberline {11.2.7}Dropping Constraints}{50}{subsection.11.2.7}

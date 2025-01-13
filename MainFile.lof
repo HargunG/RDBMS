@@ -1,0 +1,82 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Adding the repository for PostgreSQL}}{8}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Installing PostgreSQL}}{9}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Connecting to PostgreSQL}}{10}{figure.1.3}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces PgAdmin III interface}}{11}{figure.1.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Implementing INSERT query}}{13}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Implementing SELECT Query}}{14}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Implementing UPDATE query}}{14}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Implementing ALTER Querry}}{14}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Implementing DROP Query}}{15}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Implementing DELETE Querry}}{15}{figure.2.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Using equal-to operator}}{16}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Using less-than operator}}{16}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Using greater-than operator}}{17}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Using greater-than , equal-to operator}}{17}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Using less-than,equal-to Operator}}{17}{figure.3.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Using AND Operator}}{18}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Using OR Opertor}}{18}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Using AND and OR Operator together}}{19}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Using BETWEEN Operator}}{19}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Using IN Operator}}{19}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Using NULL Operator}}{20}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Using LIKE Operator}}{20}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Using LIKE Operator}}{20}{figure.4.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Character types}}{21}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Implementing using UPPERCASE Operator}}{21}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Implementing LOWERCASE Operator}}{22}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Implementing MID Operator}}{22}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Implementing AVERAGE Operator}}{22}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Implementing COUNT Operator}}{23}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Implementing FIRST Function}}{23}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Implementing LAST Function}}{23}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Implementing MAX Function}}{24}{figure.5.9}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Implementing MIN Function}}{24}{figure.5.10}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Implementing SUM Function}}{24}{figure.5.11}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Implementing GROUP BY Statement}}{25}{figure.5.12}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Implementing HAVING Clause}}{25}{figure.5.13}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Implementing DATE-FORMAT}}{26}{figure.5.14}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Implementing UNION Operator}}{27}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces UNION ALL Operator}}{28}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces INTERSECT}}{28}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces INTERSECT Operator}}{29}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces MINUS Operator}}{29}{figure.6.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Implementing INNER JOIN Query}}{30}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Implementing LEFT OUTER JOIN Querry}}{30}{figure.7.2}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Implementing RIGHT OUTER JOIN Querry}}{31}{figure.7.3}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Implementing FULL OUTER JOIN Querry}}{31}{figure.7.4}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Implementing CROSS JOIN Querry}}{32}{figure.7.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Company Table}}{34}{figure.8.1}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Subquery With Select Statement}}{34}{figure.8.2}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Subquery With Update Statement}}{35}{figure.8.3}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Subquery With Delete Statement}}{36}{figure.8.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces NOT NULL Constraint}}{37}{figure.9.1}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Unique Constraint}}{38}{figure.9.2}
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Primary Key Constraint}}{38}{figure.9.3}
+\contentsline {figure}{\numberline {9.4}{\ignorespaces Foreign Key Constraint}}{39}{figure.9.4}
+\contentsline {figure}{\numberline {9.5}{\ignorespaces Check Constraint}}{40}{figure.9.5}
+\contentsline {figure}{\numberline {9.6}{\ignorespaces Exclusion Constraint (Before Inserting Excluded Data)}}{40}{figure.9.6}
+\contentsline {figure}{\numberline {9.7}{\ignorespaces Exclusion Constraint (After Inserting Excluded Data)}}{41}{figure.9.7}
+\contentsline {figure}{\numberline {9.8}{\ignorespaces Drop Constraint}}{41}{figure.9.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Comapany Table}}{43}{figure.10.1}
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Subquery With Select Statement}}{43}{figure.10.2}
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Subquery With Update Statement}}{44}{figure.10.3}
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Subquery With Delete Statement}}{45}{figure.10.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {11.1}{\ignorespaces NOT NULL Constraint}}{46}{figure.11.1}
+\contentsline {figure}{\numberline {11.2}{\ignorespaces Unique Constraint}}{47}{figure.11.2}
+\contentsline {figure}{\numberline {11.3}{\ignorespaces Primary Key Constraint}}{47}{figure.11.3}
+\contentsline {figure}{\numberline {11.4}{\ignorespaces Foreign Key Constraint}}{48}{figure.11.4}
+\contentsline {figure}{\numberline {11.5}{\ignorespaces Check Constraint}}{49}{figure.11.5}
+\contentsline {figure}{\numberline {11.6}{\ignorespaces Exclusion Constraint (Before Inserting Excluded Data)}}{49}{figure.11.6}
+\contentsline {figure}{\numberline {11.7}{\ignorespaces Exclusion Constraint (After Inserting Excluded Data)}}{50}{figure.11.7}
+\contentsline {figure}{\numberline {11.8}{\ignorespaces Drop Constraint}}{50}{figure.11.8}

@@ -1,0 +1,94 @@
+\BOOKMARK [0][-]{chapter.1}{Installation and configuration of PostgreSQL and Pgadmin on machine and preparing to accept connections from all IP addresses.}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Installation and configuration of PostgreSQL 9.5}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Introduction}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Add the PostgreSQL repository}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{Update the package list}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.4}{PostgreSQL installation}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.5}{Connect to Postgres with the New UserConnect to Postgres with the New User}{section.1.1}% 7
+\BOOKMARK [1][-]{section.1.2}{Installation and configuration of PgAdminIII}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.2.1}{Connecting to database}{section.1.2}% 9
+\BOOKMARK [1][-]{section.1.3}{Configuring PostgreSQL server 9.5 to accept from all IP addresses}{chapter.1}% 10
+\BOOKMARK [0][-]{chapter.2}{Write the queries for Data Definition \(CREATE, DROP and ALTER\) and Data Manipulation Language \(SELECT, INSERT, UPDATE and DELETE\).}{}% 11
+\BOOKMARK [1][-]{section.2.1}{Create and Insert Table}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.2}{ Select Table}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.3}{ Update Table}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.4}{ Alter Table}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.5}{ Drop Table}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.6}{ Delete Table}{chapter.2}% 17
+\BOOKMARK [0][-]{chapter.3}{Write SQL queries using operators \(<,>,=etc\).}{}% 18
+\BOOKMARK [1][-]{section.3.1}{Comparison Operators}{chapter.3}% 19
+\BOOKMARK [2][-]{subsection.3.1.1}{Equal-to Operator}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.2}{Less-than Operator}{section.3.1}% 21
+\BOOKMARK [2][-]{subsection.3.1.3}{Greater-than Operator}{section.3.1}% 22
+\BOOKMARK [2][-]{subsection.3.1.4}{Greater-than,equal-to Operator}{section.3.1}% 23
+\BOOKMARK [2][-]{subsection.3.1.5}{Less-than,equal-to Operator}{section.3.1}% 24
+\BOOKMARK [0][-]{chapter.4}{Write SQL queries using SQL operators \(Between, AND, OR, IN, Like, NULL\).}{}% 25
+\BOOKMARK [1][-]{section.4.1}{The AND operator}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.2}{The OR operator}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.3}{The AND and OR operators together}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.4}{The BETWEEN operator}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.5}{The IN operator}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.6}{The NULL operator}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.7}{The LIKE operator}{chapter.4}% 32
+\BOOKMARK [0][-]{chapter.5}{Write SQL query using character, number, date and group functions.}{}% 33
+\BOOKMARK [1][-]{section.5.1}{Character Functions:}{chapter.5}% 34
+\BOOKMARK [2][-]{subsection.5.1.1}{CHARACTER TYPES:}{section.5.1}% 35
+\BOOKMARK [2][-]{subsection.5.1.2}{UCase\(\):}{section.5.1}% 36
+\BOOKMARK [2][-]{subsection.5.1.3}{LCase\(\):}{section.5.1}% 37
+\BOOKMARK [2][-]{subsection.5.1.4}{SQL MID\(\) Function}{section.5.1}% 38
+\BOOKMARK [1][-]{section.5.2}{Numeric funtions :}{chapter.5}% 39
+\BOOKMARK [2][-]{subsection.5.2.1}{SQL AVG\(\) Function}{section.5.2}% 40
+\BOOKMARK [2][-]{subsection.5.2.2}{SQL COUNT\(\) Function}{section.5.2}% 41
+\BOOKMARK [2][-]{subsection.5.2.3}{SQL FIRST\(\) Function}{section.5.2}% 42
+\BOOKMARK [2][-]{subsection.5.2.4}{SQL LAST\(\) Function}{section.5.2}% 43
+\BOOKMARK [2][-]{subsection.5.2.5}{SQL MAX\(\) Function}{section.5.2}% 44
+\BOOKMARK [2][-]{subsection.5.2.6}{SQL MIN\(\) Function}{section.5.2}% 45
+\BOOKMARK [2][-]{subsection.5.2.7}{SQL SUM\(\) Function}{section.5.2}% 46
+\BOOKMARK [1][-]{section.5.3}{GROUP Functions:}{chapter.5}% 47
+\BOOKMARK [2][-]{subsection.5.3.1}{Group by statement}{section.5.3}% 48
+\BOOKMARK [2][-]{subsection.5.3.2}{HAVING Clause:}{section.5.3}% 49
+\BOOKMARK [1][-]{section.5.4}{Date/Time Functions:}{chapter.5}% 50
+\BOOKMARK [0][-]{chapter.6}{Write SQL queries for Relational Algebra\(UNION, INTERSECT and MINUS etc\).}{}% 51
+\BOOKMARK [1][-]{section.6.1}{UNION Operator}{chapter.6}% 52
+\BOOKMARK [1][-]{section.6.2}{INTERSECT Operator}{chapter.6}% 53
+\BOOKMARK [1][-]{section.6.3}{MINUS Operator}{chapter.6}% 54
+\BOOKMARK [0][-]{chapter.7}{Write SQL queries for extracting data from more than one table \(Equi-Join, Non-Equi-Join , Outer Join\)}{}% 55
+\BOOKMARK [1][-]{section.7.1}{INNER JOIN}{chapter.7}% 56
+\BOOKMARK [1][-]{section.7.2}{LEFT OUTER JOIN}{chapter.7}% 57
+\BOOKMARK [1][-]{section.7.3}{RIGHT OUTER JOIN}{chapter.7}% 58
+\BOOKMARK [1][-]{section.7.4}{FULL OUTER JOIN}{chapter.7}% 59
+\BOOKMARK [1][-]{section.7.5}{CROSS JOIN}{chapter.7}% 60
+\BOOKMARK [0][-]{chapter.8}{Write SQL queries for sub queries, nested queries.}{}% 61
+\BOOKMARK [1][-]{section.8.1}{What is subquery}{chapter.8}% 62
+\BOOKMARK [1][-]{section.8.2}{Rules of subqueries are:-}{chapter.8}% 63
+\BOOKMARK [1][-]{section.8.3}{Subqueries with the SELECT Statement:-}{chapter.8}% 64
+\BOOKMARK [1][-]{section.8.4}{Subqueries with the INSERT Statement:}{chapter.8}% 65
+\BOOKMARK [1][-]{section.8.5}{Subqueries with the UPDATE Statement:}{chapter.8}% 66
+\BOOKMARK [1][-]{section.8.6}{Subqueries with the DELETE Statement:}{chapter.8}% 67
+\BOOKMARK [0][-]{chapter.9}{Creation, altering and droping of tables and inserting rows into a table \(use constraints while creating tables\) examples using SELECT command.}{}% 68
+\BOOKMARK [1][-]{section.9.1}{What are Constraints}{chapter.9}% 69
+\BOOKMARK [1][-]{section.9.2}{Types of Constraints Used:}{chapter.9}% 70
+\BOOKMARK [2][-]{subsection.9.2.1}{NOT NULL Constraint:}{section.9.2}% 71
+\BOOKMARK [2][-]{subsection.9.2.2}{Unique Constraint:}{section.9.2}% 72
+\BOOKMARK [2][-]{subsection.9.2.3}{Primary Key Constraint}{section.9.2}% 73
+\BOOKMARK [2][-]{subsection.9.2.4}{FOREIGN KEY Constraint}{section.9.2}% 74
+\BOOKMARK [2][-]{subsection.9.2.5}{CHECK Constraint}{section.9.2}% 75
+\BOOKMARK [2][-]{subsection.9.2.6}{EXCLUSION Constraint}{section.9.2}% 76
+\BOOKMARK [2][-]{subsection.9.2.7}{Dropping Constraints}{section.9.2}% 77
+\BOOKMARK [0][-]{chapter.10}{Write SQL queries for sub queries, nested queries.}{}% 78
+\BOOKMARK [1][-]{section.10.1}{Subquery}{chapter.10}% 79
+\BOOKMARK [1][-]{section.10.2}{Rules of subqueries are:-}{chapter.10}% 80
+\BOOKMARK [1][-]{section.10.3}{Subqueries with the SELECT Statement:-}{chapter.10}% 81
+\BOOKMARK [1][-]{section.10.4}{Subqueries with the INSERT Statement:}{chapter.10}% 82
+\BOOKMARK [1][-]{section.10.5}{Subqueries with the UPDATE Statement:}{chapter.10}% 83
+\BOOKMARK [1][-]{section.10.6}{Subqueries with the DELETE Statement:}{chapter.10}% 84
+\BOOKMARK [0][-]{chapter.11}{Creation, altering and droping of tables and inserting rows into a table \(use constraints while creating tables\) examples using SELECT command.}{}% 85
+\BOOKMARK [1][-]{section.11.1}{Constraints}{chapter.11}% 86
+\BOOKMARK [1][-]{section.11.2}{Types of Constraints Used:}{chapter.11}% 87
+\BOOKMARK [2][-]{subsection.11.2.1}{NOT NULL Constraint:}{section.11.2}% 88
+\BOOKMARK [2][-]{subsection.11.2.2}{Unique Constraint:}{section.11.2}% 89
+\BOOKMARK [2][-]{subsection.11.2.3}{Primary Key Constraint}{section.11.2}% 90
+\BOOKMARK [2][-]{subsection.11.2.4}{FOREIGN KEY Constraint}{section.11.2}% 91
+\BOOKMARK [2][-]{subsection.11.2.5}{CHECK Constraint}{section.11.2}% 92
+\BOOKMARK [2][-]{subsection.11.2.6}{EXCLUSION Constraint}{section.11.2}% 93
+\BOOKMARK [2][-]{subsection.11.2.7}{Dropping Constraints}{section.11.2}% 94
